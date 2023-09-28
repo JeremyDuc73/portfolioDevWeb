@@ -107,3 +107,20 @@ h3{
     color: var(--bleuciel);
     font-size: 16px;
 }
+
+.btnprojets{
+    background-color: var(--bleuciel);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width: 200px;
+}
+.plusdeprojets{
+    text-transform: uppercase;
+    padding: 0;
+    margin : 0;
+    font-size: 16px;
+    color: var(--noir);
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
